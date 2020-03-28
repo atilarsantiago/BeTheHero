@@ -1,2 +1,2 @@
 # BeTheHero
-App Ajuda de ONGs necessitadas. Backend, Frontend e Mobile
+App que facilita a contribuição financeira em causas sociais e humanitárias, organizadas e mantidas por ONG's.    
